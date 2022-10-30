@@ -1,0 +1,2 @@
+# emojiLibrary
+an emoji library
